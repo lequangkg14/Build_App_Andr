@@ -1,0 +1,10 @@
+{
+  "description": "Transforms images into custom web designs, enabling users to create tailored websites quickly and easily from their photos.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
